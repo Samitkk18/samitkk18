@@ -1,16 +1,13 @@
 ### Hi there I'm Samit Kapadia
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samitkk18" alt="Samit Kapadia" /> </p>
-<p>I am a Computer Engineer from Mumbai University, India. I love working on new technologies and I have a knack for finding innovative solutions to problems.
-Incoming Data Analyst at Tech Mahindra
-I am currently exploring my options in the field of Data Science.
-I am a full stack Web Developer. 
-I am open to make new connections and if you wanna work on some project and get to know me more, then check me out on Linkedin.
-
+<p>I'm a curious computer engineer, fascinated by the puzzles in the world around me. With a quest for ever-increasing knowledge and insatiable curiosity, I strive for challenging opportunities to exercise and build upon my repertoire of computation, development, and collaboration skills, and aspire to combat problems which result in positive impacts on the community.
+I am also a full stack Web Developer. Open to make new connections and if you wanna work on some project and get to know me more, then check me out on Linkedin.
+Checkout my <a href="https://samitkk18.github.io" target="_blank">Website.</a></p>
 
 ### I'm a student 
-- 🔭 I’m currently working on buliding my tech skills
-- 🌱 I’m currently learning about Data Science
+- 🔭 I am currently working as a Data Analyst at Tech Mahindra.
+- 🌱 I’m currently working on buliding my tech skill.
 - 👯 I’m looking to collaborate on ML Projects
 
 
@@ -24,6 +21,8 @@ I am open to make new connections and if you wanna work on some project and get 
 <a href="https://www.instagram.com/samit.kapadia/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
+
+### Skills:
 
   <summary>:zap: GitHub Stats</summary>
 
