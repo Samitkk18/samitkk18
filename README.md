@@ -50,7 +50,7 @@ Checkout my <a href="https://samitkk18.github.io" target="_blank">Website.</a></
 
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Samit's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=samitkk18&show_icons=true&hide_border=true" />
+  <img align="left" alt="Samit's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Samitkk18&show_icons=true&hide_border=true" />
 
 </details>
 
