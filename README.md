@@ -6,8 +6,7 @@ I am also a full stack Web Developer. Open to make new connections and if you wa
 Checkout my <a href="https://samitkk18.github.io" target="_blank">Website.</a></p>
 
 ### I'm a student 
-- 🔭 I am currently working as a Data Analyst at Tech Mahindra.
-- 🌱 I’m currently working on buliding my tech skill.
+- 🌱 I am currently working on imoroving my ML skills
 - 👯 I’m looking to collaborate on ML Projects
 
 
