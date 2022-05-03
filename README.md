@@ -6,8 +6,9 @@ I am also a full stack Web Developer. Open to make new connections and if you wa
 Checkout my <a href="https://samitkk18.github.io" target="_blank">Website.</a></p>
 
 ### I'm a student 
-- 🌱 I am currently working on imoroving my ML skills
+- 🌱 I am currently working on ExploringML
 - 👯 I’m looking to collaborate on ML Projects
+- 🚗 I follow Formula 1 since '16 and almost never miss a race.
 
 
 ### Connect With Me:
