@@ -9,6 +9,7 @@ Checkout my <a href="https://samitkk18.github.io" target="_blank">Website.</a></
 - I'll be joining University of California San Diego for MSCS Fall'22
 - </> I'm currently learning DSA for interview prep
 - 🌱 I'm currently working on ExploringML
+- 🌱 Currentlt reading <a href="https://www.statlearning.com/" target="_blank">ML Concepts: Introduction to Statistical Learning</a>
 - 👯 I’m looking to collaborate on ML Projects
 - 🚗 I follow Formula 1 since '16 and almost never miss a race
 
